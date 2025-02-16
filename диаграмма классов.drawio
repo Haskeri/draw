@@ -25,13 +25,13 @@
         <mxCell id="8_sm3HDybrZY0708MGfx-7" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8_sm3HDybrZY0708MGfx-8" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="8_sm3HDybrZY0708MGfx-8" value="Database " style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8_sm3HDybrZY0708MGfx-21" value="&lt;div align=&quot;left&quot;&gt;&lt;pre&gt;query()&lt;br&gt;getUser()&lt;br&gt;addUser() &lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="8_sm3HDybrZY0708MGfx-8">
           <mxGeometry x="50" y="30" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8_sm3HDybrZY0708MGfx-9" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="8_sm3HDybrZY0708MGfx-9" value="User" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8_sm3HDybrZY0708MGfx-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8_sm3HDybrZY0708MGfx-7" target="8_sm3HDybrZY0708MGfx-5">
